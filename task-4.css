@@ -1,0 +1,75 @@
+ *{
+	box-sizing: border-box;
+	}
+body{
+	background-color: black;
+}
+.container{
+    display: flex;
+	width: 100%px;
+	margin: 0 auto;
+	margin-top: 776px;
+	padding-left: 950px;
+	padding-right: 10px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	background-color: white;
+	}
+div{
+	display: inline;
+}
+.walter{
+	
+    position: relative;
+	border: 1px;
+	height: 100px;
+	width: 25%px;
+	margin-right: 173px;
+	height: 772px;
+	box-shadow: 0 1px 4px #80808040;
+	font-size: 35px;
+	background-color: #ffffff;
+	font-family: sans-serif;
+	}
+.sarah{
+	
+	position: relative;
+	border: 1px;
+	height: 100px;
+	width: 25%px;
+	margin-right: 173px;
+	height: 772px;
+	box-shadow: 0 1px 4px #80808040;
+	font-size: 35px;
+	background-color: #ffffff;
+	font-family: sans-serif;
+    }
+.william{
+	
+	position: relative;
+	border: 1px;
+	height: 100px;
+	width: 25%px;
+	margin-right: 173px;
+	height: 772px;
+	box-shadow: 0 1px 4px #80808040;
+	font-size: 35px;
+	background-color: #ffffff;
+	font-family: sans-serif;
+    }
+.amanda{
+	
+	position: relative;
+	border: 1px;
+	height: 100px;
+	width: 597px;
+	margin-right: 173px;
+	height: 772px;
+	box-shadow: 0 1px 4px #80808040;
+	font-size: 35px;
+	background-color: #ffffff;
+	font-family: sans-serif;
+    }
+	p{
+		color: #80808073;
+	}
