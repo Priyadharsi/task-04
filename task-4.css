@@ -7,7 +7,7 @@ body{
 .container{
     display: flex;
 	width: 100%px;
-	margin: 0;
+	margin: 0 auto;
 	margin-top: 776px;
 	padding-left: 950px;
 	padding-right: 10px;
