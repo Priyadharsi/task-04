@@ -15,6 +15,12 @@ body{
 	padding-bottom: 40px;
 	background-color: white;
 	}
+	
+.sara{
+	border-top-right-radius: 52px;
+    border-top-left-radius: 52px;
+	
+}	
 div{
 	display: inline;
 }
@@ -26,50 +32,17 @@ div{
 	width: 25%px;
 	margin-right: 173px;
 	height: 772px;
-	box-shadow: 0 1px 4px #80808040;
+	box-shadow: grey;
 	font-size: 35px;
 	background-color: #ffffff;
 	font-family: sans-serif;
+	border-radius:53px;	
+	border:1px solid #80808017;
+}
+p{
+    color: #80808073;
+	padding-left: 27px;
 	}
-.sarah{
-	
-	position: relative;
-	border: 1px;
-	height: 100px;
-	width: 25%px;
-	margin-right: 173px;
-	height: 772px;
-	box-shadow: 0 1px 4px #80808040;
-	font-size: 35px;
-	background-color: #ffffff;
-	font-family: sans-serif;
-    }
-.william{
-	
-	position: relative;
-	border: 1px;
-	height: 100px;
-	width: 25%px;
-	margin-right: 173px;
-	height: 772px;
-	box-shadow: 0 1px 4px #80808040;
-	font-size: 35px;
-	background-color: #ffffff;
-	font-family: sans-serif;
-    }
-.amanda{
-	
-	position: relative;
-	border: 1px;
-	height: 100px;
-	width: 597px;
-	margin-right: 173px;
-	height: 772px;
-	box-shadow: 0 1px 4px #80808040;
-	font-size: 35px;
-	background-color: #ffffff;
-	font-family: sans-serif;
-    }
-	p{
-		color: #80808073;
-	}
+h3{
+	padding-left: 27px;
+}
