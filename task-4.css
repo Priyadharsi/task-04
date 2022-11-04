@@ -6,20 +6,20 @@ body{
 }
 .container{
     display: flex;
-	width: 100%px;
+	width: 100%;
 	margin: 0 auto;
-	margin-top: 776px;
-	padding-left: 950px;
-	padding-right: 10px;
+	margin-top: 180px;
+	margin-bottom: 100px;
+	padding-left: 48px;
+	padding-right: 20px;
 	padding-top: 20px;
-	padding-bottom: 40px;
+	padding-bottom: 20px;
 	background-color: white;
 	}
 	
 .sara{
-	border-top-right-radius: 52px;
-    border-top-left-radius: 52px;
-	
+    width: 100%;
+	box-shadow: 1px 1px 5px grey;
 }	
 div{
 	display: inline;
@@ -28,21 +28,19 @@ div{
 	
     position: relative;
 	border: 1px;
-	height: 100px;
-	width: 25%px;
-	margin-right: 173px;
-	height: 772px;
+	width: 33.33%;
+	margin-right: 50px;
 	box-shadow: grey;
 	font-size: 35px;
 	background-color: #ffffff;
 	font-family: sans-serif;
-	border-radius:53px;	
-	border:1px solid #80808017;
+	
+    box-shadow: 1px 1px 5px grey;	
 }
 p{
     color: #80808073;
-	padding-left: 27px;
+	font-size: 13px;
 	}
 h3{
-	padding-left: 27px;
+	    font-size: 18px;
 }
